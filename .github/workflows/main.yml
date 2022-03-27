@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: TerryFunggg/play-with-github-action@v1
+      uses: TerryFunggg/play-with-github-action
       with:
         who-to-greet: 'Terry Funggg'
 
